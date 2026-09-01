@@ -12,7 +12,7 @@
 ⚡ `root@cyber-Lin-La:~# ./init_profile.sh` ⚡
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Security+Researcher;Software+Developer;Web+Security+%26+OSINT;Vulnerability+Research+%26+AI%2FLLM+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Security+Researcher;btw+i+love+arch;Web+Security+%26+OSINT;Vulnerability+Research+%26+AI%2FLLM+Security" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,7 +28,7 @@
 
 ```yaml
 User: cyber-Lin-La (Verg)
-Role: Cybersecurity Enthusiast | Security Researcher | BTW, I love ARCH
+Role: Cybersecurity Enthusiast | Security Researcher | Software Developer
 Focus: Web Security, OSINT, Vulnerability Research & AI/LLM Security
 Status: 🔍 Deep-diving into Offensive Tools & System Internals
 Motto: "Understanding how systems break to build better defenses."
