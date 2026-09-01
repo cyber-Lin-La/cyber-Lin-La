@@ -28,7 +28,7 @@
 
 ```yaml
 User: cyber-Lin-La (Verg)
-Role: Cybersecurity Enthusiast | Security Researcher | Software Developer
+Role: Cybersecurity Enthusiast | Security Researcher | BTW, I love ARCH-LINUX
 Focus: Web Security, OSINT, Vulnerability Research & AI/LLM Security
 Status: 🔍 Deep-diving into Offensive Tools & System Internals
 Motto: "Understanding how systems break to build better defenses."
